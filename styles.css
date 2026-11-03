@@ -1,0 +1,26 @@
+body {
+background-color: rgb(217, 150, 79);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h1 {
+    color: rgb(40, 79, 30);
+
+}
+
+.redtext {
+    color:rgb(127, 49, 49)
+}
+
+.sweater {
+    background-color: rgb(146, 111, 146);
+}
+
+.calico {
+    background-color: rgb(233, 173, 183);
+}
+
+.from {
+    background-color: rgb(130, 182, 130);
+}
